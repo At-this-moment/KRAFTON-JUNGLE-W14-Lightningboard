@@ -1,0 +1,66 @@
+.card-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px;
+    background: transparent;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* 전체를 중앙으로 정렬 */
+  }
+  
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    width: 100%; /* 그리드 너비를 명확히 설정 */
+  }
+  
+  .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.48);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-decoration: none;
+    color: #ffffff;
+    transition: background-color 0.3s;
+  }
+  
+  .card:hover {
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+  }
+  
+  .card-title {
+    font-weight: bold;
+    margin-bottom: 11px;
+  }
+  
+  .card-timer {
+    color: #ffffff;
+    font-size: 1rem;
+  }
+  
+  .button-container {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .main-button {
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+  }
+  
+  .main-button:hover {
+    background-color: #d6ff0a;
+  }
+  
