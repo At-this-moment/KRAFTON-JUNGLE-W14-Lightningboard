@@ -88,6 +88,5 @@ cd backend
 
 ## 링크
 
-* [Frontend 폴더 바로가기](./frontend)
-* [Backend 폴더 바로가기](./backend)
-* [벨로그 관련 글](https://velog.io/@qnfrma1997/14%EC%A3%BC%EC%B0%A8-%EC%8B%A4%EB%A0%A5%EB%8B%A4%EC%A7%80%EA%B8%B0-%EC%A7%84%ED%96%89%EC%83%81%ED%99%A9-2)
+* [14주차 실력다지기 진행상황 1 벨로그](https://velog.io/@qnfrma1997/14%EC%A3%BC%EC%B0%A8-%EC%8B%A4%EB%A0%A5%EB%8B%A4%EC%A7%80%EA%B8%B0-%EC%A7%84%ED%96%89%EC%83%81%ED%99%A9-1)
+* [14주차 실력다지기 진행상황 2 벨로그](https://velog.io/@qnfrma1997/14%EC%A3%BC%EC%B0%A8-%EC%8B%A4%EB%A0%A5%EB%8B%A4%EC%A7%80%EA%B8%B0-%EC%A7%84%ED%96%89%EC%83%81%ED%99%A9-2)
